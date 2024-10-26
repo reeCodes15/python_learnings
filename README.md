@@ -1,1 +1,2 @@
-# python_learnings
+# python_learn
+Learning the concepts of python

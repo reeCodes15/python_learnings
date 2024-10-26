@@ -1,0 +1,79 @@
+DATA ANALYST - REENA MAN
+
+RESUME ==> 3 year experience in DATA ENGINEERING
+
+
+
+INTORDUCTION ==> 
+
+BEGINNING ==> 
+SUPPORT ROLE ==> 6-8 months nike ==> 
+GRADUALLY ==>
+2 years in data engineering ==> these all are my skills
+
+
+
+
+DATA ROLE -
+
+1 - PYTHON ==> Foundations ==> 28-30 python, input, output, 
+
+2 - SQL  
+
+3 - TABLEAU
+
+4 - Excel
+
+5 - Git basics
+
+
+
+
+================================================================================================================================
+PYTHON NOTES
+================================================================================================================================
+
+Topics 
+1 - input/output
+2 - Function
+
+1 - input/output
+For a program to take in input, we use the function ==> input
+For printing the output, we use print function. 
+
+
+2 - Function
+Function is nothing but block of code written to perform a specific work for you.
+
+Types of function ==>
+
+1 - User-defined functions
+2 - Built-in functions
+
+The way to call a function is ==> function_name()
+
+
+3 - Operators
+A - Arithmetic operators: +, -, *, /, % (modulus), ** (exponentiation), // (floor division).
+B-  Comparison operators: ==, !=, >, <, >=, <=.
+C - Logical operators: and, or, not.
+
+
+4 - Identifiers
+Variables: Containers for storing data values.
+
+5 - Data types
+Define the type of data a variable can hold (e.g., integers, strings, floats)
+
+6 - Conditional Statements
+if, elif, else: Used to execute code based on certain conditions.
+
+7 - Loops
+For Loop: Used to iterate over a sequence (like lists, strings).
+While Loop: Repeats a block of code while a condition is true
+
+8 - Lists:
+append, insert
+remove, pop
+
+
