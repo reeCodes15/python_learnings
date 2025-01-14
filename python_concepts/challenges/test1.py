@@ -14,6 +14,5 @@ def evenodd(a):
 
 
 output = evenodd(n)
-
 print(output)
 
